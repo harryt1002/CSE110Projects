@@ -40,4 +40,4 @@ I am also working on applying to internship for this coming summer so there are 
 - [ ] Apply to companies
 
 ### Screenshots
-[Screenshots for Lab Week 0 & 1](CSE110Projects/PICTURES.md)
+[Screenshots for Lab Week 0 & 1](PICTURES.md)
