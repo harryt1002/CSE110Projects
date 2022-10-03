@@ -19,3 +19,25 @@ git branch
 git checkout
 ```
 but nonetheless I took the time to learn and understand it so I could be prepared for future applications of git.
+
+Some languages I have touched on before are:
+- Java
+- JavaScript
+- Python
+- C
+- C++
+
+And future companies I would like to work for are:
+1. Riot Games
+2. Twitter
+3. Facebook
+4. JP Morgan Chase
+5. Amazon
+
+I am also working on applying to internship for this coming summer so there are still couple of things I need to do:
+- [ ] Finalize my resume
+- [ ] Practice LeetCode problems
+- [ ] Apply to companies
+
+### Screenshots
+[Screenshots for Lab Week 0 & 1](CSE110Projects/PICTURES.md)
