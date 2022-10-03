@@ -40,4 +40,7 @@ I am also working on applying to internship for this coming summer so there are 
 - [ ] Apply to companies
 
 ### Screenshots
-[Screenshots for Lab Week 0 & 1](Screenshots/add_commit_push.png)
+[Screenshots for Lab Week 0 & 1 - clone](Screenshots/git%20clone.png)
+[Screenshots for Lab Week 0 & 1 - branch](Screenshots/git%20branch.png)
+[Screenshots for Lab Week 0 & 1 - add, commit, and push](Screenshots/add_commit_push.png)
+[Screenshots for Lab Week 0 & 1 - gitignore](Screenshots/gitignore.png)
