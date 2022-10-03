@@ -1,5 +1,4 @@
 # My User Page
-https://harryt1002.github.io/CSE110Projects/
 ### My Personal Life
 Hello, my name is Harry Tang and this is a look inside my personal life. I am a 20 year old Computer Engineer major at UCSD.
 When I'm in my free time and not coding I typically enjoy playing video games such as **Valorant**. ***I really enjoy playing video games.***
